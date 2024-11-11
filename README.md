@@ -1,4 +1,4 @@
-# CTR Prediction - GBDT+LR
+# Display-Advertising-Challenge
 
 This project implements a binary classification prediction system based on a custom LightGBM model combined with Logistic Regression. The system provides a complete machine learning workflow, including data preprocessing, model training, and prediction.
 
